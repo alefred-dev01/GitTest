@@ -3,3 +3,5 @@ demo platzi 02
 Reiniciamos despues de haber avanzado tanto.
 
 Vamos a forzar un cambio
+
+Nuevo usuario a probar que funcione
